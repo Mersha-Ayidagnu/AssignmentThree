@@ -1,5 +1,5 @@
 # AssignmentThree<br>
 ## Answer
-D<br>
-D<br>
-C<br>
+1. D<br>
+2. D<br>
+3. C<br>
